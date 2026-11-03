@@ -4,9 +4,7 @@ description: Bid/RFP response pack — extract requirements from hundreds of ten
 version: 1.0.0
 author: RAY
 license: CC-BY-4.0
-tags: "[rfp, tender, bid-response, government-sales, enterprise-sales, proposal]"
-metadata:
-
+tags: [rfp, tender, bid-response, government-sales, enterprise-sales, proposal]
 pricing:
   free: Free — 1 bid outline/month
   pro: $49/month — scoring reverse-engineering + template library
@@ -39,7 +37,6 @@ monetization:
   upgrade_path: Pro Monthly -> Pro Annual -> Enterprise
 
 ---
-
 # RFP Response Pack
 
 ## What problem it solves
