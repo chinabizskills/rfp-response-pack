@@ -18,7 +18,7 @@ Bid/RFP response pack — extract requirements from hundreds of tender pages, re
 
 ## Pricing
 
-Free (CC BY 4.0) on GitHub & skills.sh. Curated bundle on Gumroad: $49 (Pro $99).
+Free (CC BY 4.0) on GitHub & skills.sh. Pro $49/month · Pro Annual $490/year · Enterprise $299/month on Agensi: https://www.agensi.io/skills/rfp-response-pack
 
 ## Known Risks and Mitigations
 
