@@ -3,7 +3,7 @@
 > Bid/RFP response pack — extract requirements from hundreds of tender pages, reverse-engineer the scoring method, generate point-by-point response drafts, deviation tables, and a 28-item disqualification (bid-failure) self-check. The scoring committee grades against the rubric; your bid grows the same way.
 
 **Category:** sales-automation  |  **License:** CC-BY-4.0  |  **Version:** 1.0.0
-**Price:** Free on GitHub & skills.sh (CC BY 4.0). Curated bundle on Gumroad: $49 (Pro $99).
+**Price:** Free on GitHub & skills.sh (CC BY 4.0). Pro & Enterprise on Agensi: $49/month · $490/year · $299/month.
 
 ## What it does
 
@@ -37,7 +37,19 @@ Or clone: `git clone https://github.com/chinabizskills/rfp-response-pack.git`
 
 ## Pricing & license
 
-Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required). A curated, expanded bundle (with the Pro templates) is sold on Gumroad for $49 (Pro $99). The free GitHub/skills.sh version is the complete, working skill.
+Free on GitHub & skills.sh under **CC BY 4.0** — the complete core workflow, free to use, share and adapt (attribution required).
+Pro and Enterprise are subscriptions on Agensi:
+
+| Tier | Price | What you get |
+|---|---|---|
+| Free | $0 | 1 bid outline/month |
+| Pro Monthly | $49/month | scoring reverse-engineering + template library |
+| Pro Annual | $490/year | Same Pro benefits, billed yearly |
+| Enterprise | $299/month | company case library + review link |
+
+Subscribe: https://www.agensi.io/skills/rfp-response-pack
+
+Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required).
 
 ## Tags
 
