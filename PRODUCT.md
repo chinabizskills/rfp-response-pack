@@ -12,7 +12,6 @@
 | **Pro Monthly** | **$49/month — scoring reverse-engineering + template library** | Unlimited + full Pro pack + export + template library |
 | Pro Annual | $490/year | Same Pro benefits, annual discount |
 | Enterprise | $299/month (company case library + review link) | Team unlimited + enterprise templates |
-| Pay per use | $29 one-time (single bid) | Zero-friction entry for low-frequency users |
 
 ## 2. Pricing skeleton
 
@@ -24,7 +23,7 @@ predictable revenue, heavy-user value captured.
 ```text
 Free tier (Free — 1 bid outline/month)
   → quota exhausted -> paywall prompt
-  → 7-day free trial (no card required)
+  → subscribe on Agensi: https://www.agensi.io/skills/rfp-response-pack
   → Pro Monthly $49/month — scoring reverse-engineering + template library
   → Pro Annual $490/year
   → Enterprise $299/month (company case library + review link)
@@ -32,8 +31,6 @@ Free tier (Free — 1 bid outline/month)
 
 ## 4. Success metrics (3 months)
 
-- Free → trial ≥ 15%
-- Trial → paid ≥ 25%
 - Monthly retention ≥ 60%
 - NPS ≥ 45
 
